@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="290062b9-ba47-42e5-9b66-d1cd5f81afc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bitrix_with_Cucumber_Framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/Pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/Pages/loginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/Runners/ClassRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/StepDifinations/AssignTaskStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/StepDifinations/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/StepDifinations/SendMessageFunctionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/Utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/Utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bitrix24/Utilities/utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/1-sendMessageFull.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/10-InteractWithEmployees.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/11-Download_DesktopApp.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/2-AssignTask.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/3-CreateEvent.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/4-CreatePoll.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/5-SendFiles.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/6-SendAppreciations.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/7-SendAnnouncements.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/8-CreateWorkFlow.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/9-Filter_Search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -52,7 +28,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1f3eWiDbHzpJuJl8jOeMKH0w5ts" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -83,10 +61,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="323" y="104" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595454227775" />
-    <state x="586" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1595527141039">
+    <state x="586" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1595880337292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="586" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595527141039" />
+    <state x="586" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595880337292" />
+    <state x="718" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595593079355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595593079355" />
     <state x="230" y="173" key="new project wizard" timestamp="1595558187017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
